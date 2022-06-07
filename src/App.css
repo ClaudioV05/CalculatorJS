@@ -1,0 +1,14 @@
+* {
+  font-family: monospace;
+}
+ 
+body {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  color: rgb(14, 14, 14);
+  background-color: rgb(57, 56, 56)
+}
