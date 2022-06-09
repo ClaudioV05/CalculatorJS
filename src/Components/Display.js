@@ -5,7 +5,7 @@ export default props => {
   return (
     <>
       <div className="display">
-        <h1>0</h1>
+        <h1>{props.Value}</h1>
       </div>
     </>
   )
